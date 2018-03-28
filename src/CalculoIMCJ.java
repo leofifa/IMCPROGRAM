@@ -8,7 +8,6 @@ public class CalculoIMCJ {
         float altura = 0;
         float imc;
         String classifica = null;
-
         String sexo = null;
 
         while (!"f".equalsIgnoreCase(sexo) && !"m".equalsIgnoreCase(sexo)) {
